@@ -19,7 +19,7 @@
 #OPERADORES DE COMPARAÇÃO
 v1 = 11
 v2 = 11
-#puts v1 >= v2
+puts v1 >= v2
 puts v1.eql?(v2)
 
 #maior que >
