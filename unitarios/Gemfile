@@ -2,7 +2,13 @@
 
 source "https://rubygems.org"
 
+<<<<<<< HEAD
 gem 'rspec'
 
 
 
+=======
+gem "cucumber"
+gem "rspec"
+gem "rspec_junit_formatter"
+>>>>>>> 997c58a98f669cce936ed83547dd16e154f79f83
